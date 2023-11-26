@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Web Sockets, Web RTC**
+- 🌱 I’m currently learning **Web Sockets, Docker**
 
 - 👨‍💻 All of my projects are available at [https://udayvara.github.io/portfolio/](https://udayvara.github.io/portfolio/)
 
